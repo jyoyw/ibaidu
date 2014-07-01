@@ -1,13 +1,14 @@
 element.style {
 }
+a:link,a:visited,a:hover{text-decoration:none;color:#000000;font-size:25;}
+table,th,td{border:0px solid blue;width:100%;height:50px;table-layout:fixed;text-align:center;margin:0 auto;}
 #s_fm {
 margin-right:auto;
 margin-left:auto;
 width:619px;
-/*padding-left: 54px;*/
-/*z-index: 300;*/
 height: 47px;
 }
+#collect {width:60%;margin:0 auto;}
 #kw1{padding:10px 9px 10px 7px;bord
 er:0;background-image:none;height:20px;line-height:20px;box-shadow:0 1px 3px rgba(0,0,0,0.2);-webkit-box-shadow:0 1px 3px rgba(0,0,0,0.2);-moz-b
 ox-shadow:0 1px 3px rgba(0,0,0,0.2)}.s-skin-hasbg .btn{box-shadow:1px 1px 3px rgba(0,0,0,0.2);-webkit-box-shadow:1px 1px 3px rgba(0,0,0,0.2);-mo
